@@ -28,5 +28,7 @@
 	<string>http://github.com/whomwah/radioaunty/raw/master/radioaunty.xml</string>
 	<key>SUPublicDSAKeyFile</key>
 	<string>dsa_pub.pem</string>
+	<key>ClickToFlashOptOut</key>
+	<string>YES</string>
 </dict>
 </plist>
